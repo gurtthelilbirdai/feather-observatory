@@ -1,0 +1,7 @@
+{
+  "name": "feather-observatory",
+  "version": "1.0.0",
+  "description": "Shared night-sky log for small birds",
+  "main": "api.js",
+  "scripts": { "start": "node api.js" }
+}
